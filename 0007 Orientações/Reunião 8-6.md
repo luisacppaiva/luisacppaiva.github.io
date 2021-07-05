@@ -1,0 +1,44 @@
+# Orientação 
+[[002 Arquivo ITCC]]
+-  [pecha kucha (20 slides/20s)](https://www.youtube.com/watch?v=D3oRXh4_sYg)
+- treinar a escrita mais síntética 
+- dar uma olhada em como os ingleses escrevem
+- workshop de escrita? 
+- evitar repetições 
+	- como enfatizar aquilo que você quer enfatizar sem ficar repetindo 
+- pérez-goméz: bom para uma referência pra falas
+	- não é muito marxista 
+	- situa as viradas (formalistas) da arquitetura e coloca as pessoas relacionadas a esses momentos 
+- hermeneutica x ontologia 
+- poliphilo -> livro
+- dialética da experiência e do espetáculo 
+- *kora* -> conceito platônico
+- fenomenologia, steven hall, pérez-gómez
+- [[BALTAZAR, A sedução da imagem na arquitetura (2014).pdf]]
+- conversar com pessoal da família do José Vitor 
+- levar a brincadeira ao limite 
+- desdobramentos do que José Vitor fez -> como isso afetou a comunidade do Bação 
+- cuidado para não cair na magia da ignorância 
+- pensar no contexto histórico do Bação 
+- dá pra pensar no José Vitor como um trabalhador livre? 
+	- seu trabalho não parecia estranhado 
+	- ele parecia ter domínio do seu trabalho/materialidade do objeto 
+- #ferro 
+	- [[FERRO, Sergio. A Construção do Desenho Clássico (2021).pdf]]
+	- [[Aulas Sergio Ferro]]
+- Diversas nuances na alienação do trabalho 
+- Produção do Espaço 
+	- #lefevbre 
+	- #lopesdesouza 
+- [[Pedagogia Sócio-Espacial]]
+	- é um horizonte 
+	- auto emancipação
+	- como propor interfaces para que as pessoas criam espaços de aprendizado? 
+- #arendt 
+	- [[ARENDT, A condição humana (1958) [2007].pdf]]
+- #sennett
+	- [[SENNETT, Carne e Pedra (2006).pdf]]
+	- Juntos 
+- #charley 
+	- [A necessidade da utopia para pensar o comum](https://www.youtube.com/watch?v=sKXL7U0V40o)
+- **pensar em estratégias para encontrar o pessoal do bação** 

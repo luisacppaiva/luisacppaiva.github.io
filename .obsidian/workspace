@@ -1,0 +1,175 @@
+{
+  "main": {
+    "id": "4ba78b2fd393317e",
+    "type": "split",
+    "children": [
+      {
+        "id": "5c5def5595823cf6",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "0023 Crítica da produção capitalista do espaço - leituras em Marx e Lefebvre/ARC025 - Aula 03.md",
+            "mode": "preview"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d79d38a08d959826",
+    "type": "split",
+    "children": [
+      {
+        "id": "e0c3260fc9c1b1b0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "df96ac8ec3529b06",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "936008bfe084131a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": true,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "6ba085ef8505526b",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 304
+  },
+  "right": {
+    "id": "94bed1eb47249a1c",
+    "type": "split",
+    "children": [
+      {
+        "id": "7250dd70a505d7dc",
+        "type": "tabs",
+        "dimension": 59.40695296523517,
+        "children": [
+          {
+            "id": "400566187b3aff2a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "0023 Crítica da produção capitalista do espaço - leituras em Marx e Lefebvre/ARC025 - Aula 03.md",
+                "collapseAll": true,
+                "extraContext": true,
+                "sortOrder": "alphabetical",
+                "showSearch": true,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "294c21573d443059",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "0023 Crítica da produção capitalista do espaço - leituras em Marx e Lefebvre/ARC025 - Aula 03.md"
+              }
+            }
+          },
+          {
+            "id": "18758c35722057a1",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "0023 Crítica da produção capitalista do espaço - leituras em Marx e Lefebvre/ARC025 - Aula 03.md",
+                "linksCollapsed": true,
+                "unlinkedCollapsed": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "20aaaae370172a66",
+        "type": "tabs",
+        "dimension": 40.59304703476483,
+        "children": [
+          {
+            "id": "dc62a5abe1c5e109",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "0023 Crítica da produção capitalista do espaço - leituras em Marx e Lefebvre/ARC025 - Aula 03.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 0.4885459780778733,
+                  "close": false
+                }
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 282,
+    "collapsed": true
+  },
+  "active": "5c5def5595823cf6",
+  "lastOpenFiles": [
+    "0023 Crítica da produção capitalista do espaço - leituras em Marx e Lefebvre/ARC025 - Aula 03.md",
+    "0023 Crítica da produção capitalista do espaço - leituras em Marx e Lefebvre/ACR025 - Aula 02.md",
+    "0020 Temas/0500 José Vitor.md",
+    "0020 Temas/0220 Interface.md",
+    "0020 Temas/0180 Venda do trabalho.md",
+    "0020 Temas/0110 Trabalho Livre.md",
+    "0020 Temas/016 Crítica a queda decrescente da taxa de lucro.md",
+    "0230 Crítica da produção capitalista do espaço - leituras em Marx e Lefebvre/Sem título.md",
+    "0070 Orientações/Reunião 5-7.md",
+    "0070 Orientações/Reunião 1-7.md"
+  ]
+}
